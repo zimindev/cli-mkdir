@@ -87,7 +87,7 @@ mkdir -m 700 secrets
 
 ---
 
-## ℹ️ More Info
+## 📚 More Info
 
 - Manual: `man mkdir`
 - Help: `mkdir --help`
